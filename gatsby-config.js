@@ -2,7 +2,7 @@ const siteTitle = "Gatsby";
 const siteDescription =
   "Some description";
 const siteAuthor = "me";
-const siteUrl = "https://<your_webiste>.com";
+const siteUrl = "https://github.com";
 const siteImage = `${siteUrl}/icons/siteImage.png`;
 const siteKeywords = [
   "key", "word"
