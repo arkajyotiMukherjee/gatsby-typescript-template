@@ -1,4 +1,4 @@
-# YOUR PROJECT
+# Gatsby, Typescript and Styled Components started template
 
 # Development Setup
 
